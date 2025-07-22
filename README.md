@@ -15,11 +15,13 @@
 
 ## 📸 Demo Preview
 
-> 🚀 Live Demo: https://ashishkadam03.github.io/Burger-Website-Using-Chat-GPT/
+Welcome to **Berger Hut** – a sleek, stylish burger restaurant website powered by AI-generated content using ChatGPT.
 
-<p align="center">
-  <img src="" alt="[Burger Website Screenshot](https://github.com/ashishkadam03/Burger-Website-Using-Chat-GPT/blob/main/images/ashishkadam03.github.io_Burger-Website-Using-Chat-GPT_.png)">
-</p>
+🚀 **Live Demo:** [Burger Website Demo](https://ashishkadam03.github.io/Burger-Website-Using-Chat-GPT/)
+
+## 🔥 Preview
+
+![Burger Website Screenshot](./images/ashishkadam03.github.io_Burger-Website-Using-Chat-GPT_.png)
 
 ---
 
