@@ -78,9 +78,8 @@ Made with 💖 and ChatGPT
 
 GitHub : https://github.com/ashishkadam03
 
-LinkedIn  :
+LinkedIn  : www.linkedin.com/in/ashishkadam0709
 
-Portfolio :
 
 📜 License
 This project is licensed under the MIT License.
