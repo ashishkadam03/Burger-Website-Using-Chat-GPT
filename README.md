@@ -48,10 +48,15 @@
 ## 📁 Folder Structure
 burger-website-using-chatgpt/
 ├── index.html
-├── style.css
+
+├── style.
+
 └── images/
+
 ├── logo.png
+
 ├── banner.jpg
+
 └── burger.jpg
 
 ---
