@@ -18,7 +18,7 @@
 > 🚀 Live Demo: https://ashishkadam03.github.io/Burger-Website-Using-Chat-GPT/
 
 <p align="center">
-  <img src="" alt="Burger Website Screenshot">
+  <img src="" alt="[Burger Website Screenshot](https://github.com/ashishkadam03/Burger-Website-Using-Chat-GPT/blob/main/images/ashishkadam03.github.io_Burger-Website-Using-Chat-GPT_.png)">
 </p>
 
 ---
