@@ -65,11 +65,18 @@ Home Page	Menu Section
    git clone https://github.com/ashishkadam03/burger-website-using-chatgpt.git
 ---
 
-### ✅ What You Should Do:
+🧑‍💻 Author
+Ashish Kadam
+Made with 💖 and ChatGPT
 
-- Replace the GitHub, LinkedIn, and Portfolio links with your actual profile URLs.
-- Upload real images to the `images/` folder and update `README.md` preview links accordingly.
-- Once you deploy your site (e.g., GitHub Pages), update the **Live Demo** section.
+🔗 Connect with me:
 
-Would you like help **deploying this website to GitHub Pages** or **generating a `LICENSE` file`**?
+GitHub : https://github.com/ashishkadam03
+
+LinkedIn  :
+
+Portfolio :
+
+📜 License
+This project is licensed under the MIT License.
 
