@@ -15,10 +15,10 @@
 
 ## 📸 Demo Preview
 
-> 🚀 Live Demo: _Coming Soon_ (Deploy on GitHub Pages or Netlify and update the link)
+> 🚀 Live Demo: https://ashishkadam03.github.io/Burger-Website-Using-Chat-GPT/
 
 <p align="center">
-  <img src="https://ashishkadam03.github.io/Burger-Website-Using-Chat-GPT/" alt="Burger Website Screenshot">
+  <img src="" alt="Burger Website Screenshot">
 </p>
 
 ---
@@ -59,15 +59,11 @@ burger-website-using-chatgpt/
 
 └── burger.jpg
 
----
-🌐 Screenshots
-Home Page	Menu Section
-
 ## 🚀 How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ashishkadam03/burger-website-using-chatgpt.git
+   git clone  https://ashishkadam03.github.io/Burger-Website-Using-Chat-GPT/
 ---
 
 🧑‍💻 Author
