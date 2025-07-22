@@ -18,7 +18,7 @@
 > 🚀 Live Demo: _Coming Soon_ (Deploy on GitHub Pages or Netlify and update the link)
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Burger+Website+Preview" alt="Burger Website Screenshot">
+  <img src="https://ashishkadam03.github.io/Burger-Website-Using-Chat-GPT/" alt="Burger Website Screenshot">
 </p>
 
 ---
